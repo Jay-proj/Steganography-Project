@@ -1,4 +1,6 @@
 Steganography Project
+
+
 🔹A project developed as part of a virtual internship with Edunet Foundation in collaboration with IBM SkillBuild platform. This project focuses on steganography, the practice of concealing information within digital media.
 
 Features
