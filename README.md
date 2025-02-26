@@ -29,7 +29,3 @@ Future Improvements
 - Improve encryption algorithms
 - Add GUI for ease of use
 - Support for audio and video steganography
-
-
-Contributors
-@Jay-proj.github
