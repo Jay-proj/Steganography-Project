@@ -20,4 +20,4 @@ Future Improvements
 🔹 Support for audio and video steganography
 
 Contributors
-Your Name @Jay-proj.github
+@Jay-proj.github
